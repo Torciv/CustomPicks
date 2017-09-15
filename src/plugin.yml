@@ -1,0 +1,16 @@
+name: CPickaxes
+author: Torciv
+version: ${project.version}
+main: com.torciv.cpickaxes.Picos
+description: Minecraft custom CPickaxes!
+depend: [Factions]
+commands:
+    cpick:
+        description: Command of CPick's plugin.
+    cpick help:
+        description: All command's of CPick's plugin.
+    cpick reload:
+        description: Reloads cpick's config.
+    cpick give <player> <radius>:
+        description: Gives to a player 1 cpick.
+

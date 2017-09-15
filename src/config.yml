@@ -1,0 +1,23 @@
+messages:
+    no-perm-commands: "&cNo tienes permisos para ejecutar ese comando"
+
+picks:
+    '3':
+        Pico: 'DIAMOND_PICKAXE'
+        name: '&9&l&ko&6&lPico&e&lMágico&9&l&ko'
+        lore:
+            - ' '
+            - '&aMina en un radio de &d%RAD%x%RAD%'
+        enchants:
+            - 'DIG_SPEED:5'
+            - 'DURABILITY:3'
+            
+    '5':
+        Pico: 'DIAMOND_PICKAXE'
+        name: '&9&l&ko&6&lPico&e&lUltra&9&l&ko'
+        lore:
+            - ' '
+            - '&aMina en un radio de &d%RAD%x%RAD%'     
+        enchants:
+            - 'DIG_SPEED:5'
+            - 'DURABILITY:3'
